@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_pizza1"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#D81B60">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="UPDATE PROFILE"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="8dp"
+            android:src="@drawable/ic_arrow_back_black1_24dp" />
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="180dp"
+            android:background="@drawable/bgupdateprofile"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="80dp"
+                android:fontFamily="@font/antic"
+                android:text="Infomation"
+                android:visibility="invisible"
+                android:textColor="#fff"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+
+            <EditText
+                android:layout_width="300dp"
+                android:hint="Nhập họ và tên"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:theme="@style/foating"
+                android:id="@+id/profilename"
+                android:paddingBottom="10dp"
+                android:background="@drawable/boggocedt"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgprofile"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="130dp"
+            android:layout_gravity="center_horizontal"
+            app:civ_border_width="5dp"
+            app:civ_border_color="#fff"
+            android:src="@drawable/avatar"/>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:background="#fff"
+        android:orientation="vertical"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/profilemail"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/boggocedt"
+            android:hint="Nhập Email"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:theme="@style/foating"
+            app:passwordToggleEnabled="true" />
+
+        <EditText
+            android:id="@+id/profilephone"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/boggocedt"
+            android:hint="Nhập số điện thoại"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:theme="@style/foating" />
+
+        <EditText
+            android:id="@+id/profileaddress"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/boggocedt"
+            android:hint="Nhập địa chỉ"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:theme="@style/foating" />
+
+        <Button
+            android:id="@+id/updateprofile"
+            android:layout_width="371dp"
+            android:layout_height="58dp"
+            android:text="UPDATE PROFILE"
+            android:textSize="16sp"
+            app:backgroundTint="#E53935" />
+
+    </LinearLayout>
+</LinearLayout>

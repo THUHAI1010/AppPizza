@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#FFEBEE"
+    android:gravity="center">
+    <EditText
+        android:layout_width="300dp"
+        android:hint="Nhập Email"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:theme="@style/foating"
+        android:id="@+id/emailsignup"
+        android:paddingBottom="10dp"
+        android:background="@drawable/boggocedt"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:layout_width="300dp"
+        android:hint="NHập mật khẩu"
+        android:paddingLeft="20dp"
+        android:id="@+id/passsignup"
+        android:paddingTop="10dp"
+        android:layout_marginTop="20dp"
+        android:theme="@style/foating"
+        android:inputType="textPassword"
+        android:paddingBottom="10dp"
+        android:background="@drawable/boggocedt"
+        android:layout_height="wrap_content"
+        app:passwordToggleEnabled="true"/>
+    <EditText
+        android:layout_width="300dp"
+        android:hint="Nhập lại mật khẩu"
+        android:layout_marginTop="20dp"
+        android:id="@+id/nhaplaipass"
+        android:paddingLeft="20dp"
+        android:theme="@style/foating"
+        android:inputType="textPassword"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/boggocedt"
+        android:layout_height="wrap_content"/>
+
+    <ProgressBar
+        android:id="@+id/profile_progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:theme="@style/floatingbutton"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="276dp"
+        android:layout_height="61dp"
+        android:text="ĐĂNG KÍ"
+        android:textSize="16sp"
+        app:backgroundTint="@color/Do" />
+
+
+</LinearLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable-v24/background_right.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable-v24/bg_banner_rating.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable-v24/ic_share.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable-v24/overlay_black_bottom.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable-v24/rounded_corner.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/background_left.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/bg_tl.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/bgupdateprofile.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_arrow_back_black1_24dp.xml" value="0.1652027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.1652027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1652027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.1652027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_clear_black_24dp.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_dark_mode.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_edit_password.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_edit_profile.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_heart_liked.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_logout.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_menu_black.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_more.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_notifications.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_person_black.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/ic_send_black_24dp.xml" value="0.13547297297297298" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/indicator_default.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/indicator_selected.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/drawable/indicator_selector.xml" value="0.17533783783783785" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_food_product.xml" value="0.15472972972972973" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_food_profile.xml" value="0.15472972972972973" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_giao_dich.xml" value="0.15472972972972973" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_intro.xml" value="0.15472972972972973" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_login.xml" value="0.15135135135135136" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_map.xml" value="0.13513513513513514" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_messeger.xml" value="0.13513513513513514" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_resetpassword.xml" value="0.13513513513513514" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_search.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_splash_screen.xml" value="0.13513513513513514" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/activity_thanh_toan.xml" value="0.2" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/badge_icon_layout.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/chat_item_left.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/chat_item_right.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/dulieusach.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentcart.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentchangepassword.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmenteditprofile.xml" value="0.2" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentfavorite.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentgdtb.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentgdtc.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmenthistory.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmenthome.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentlogin.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentprofile.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/fragmentsignup.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/imgae_slider.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/item_categorieshome.xml" value="0.264" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/item_chat.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/itemfood.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/itemfoodprofile.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/layout_connection_problem.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/layout_screen.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/list_item_review.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/row_cart.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/row_carthdct.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/row_category.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/row_xacnhan.xml" value="0.125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/layout/view_card_poster.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14560810810810812" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/CHƯƠNG TRÌNH/AppOrderFood/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14560810810810812" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/background_right.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/bg_banner_rating.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/bg_transparent_toolbar.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/ic_favorite_border.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/ic_share.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/overlay_black_bottom.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable-v24/rounded_corner.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/background_left.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/bg.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/bg_tang.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/bg_tl.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/bgupdateprofile.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/boggoc.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/boggocbutton.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/boggocedt.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/btn_gradient_style.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/dr_bg.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_arrow_back_black1_24dp.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_dark_mode.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_heart.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_logout.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_more.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_notifications.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/ic_person_black.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/indicator_default.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/indicator_selected.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/drawable/indicator_selector.xml" value="0.1152027027027027" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/layout/activity_login.xml" value="0.15472972972972973" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/layout/activity_resetpassword.xml" value="0.10472972972972973" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/layout/activity_splash_screen.xml" value="0.16486486486486487" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/app/src/main/res/layout/activity_thanh_toan.xml" value="0.16486486486486487" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/drawable-v24/btnbogoc.xml" value="0.2015625" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/drawable/bgupdateprofile.xml" value="0.2703125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/activity_giao_dich2.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/bottomm_sheft_add_food.xml" value="0.18541666666666667" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/bottomm_sheft_update_food.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/chat_item_left.xml" value="0.18541666666666667" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/chat_item_right.xml" value="0.18541666666666667" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/fragmentcategory.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/fragmentchangepassword.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/fragmenteditprofile.xml" value="0.2" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/fragmentgdtb.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/fragmentmanager.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/fragmenttk_thang.xml" value="0.25416666666666665" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/item_chat.xml" value="0.18541666666666667" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/layout/itemfood.xml" value="0.18541666666666667" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/DI ĐỘNG/1_3_22/BÁO CÁO DI ĐỘNG CK/hom nay/PizzaLove/PizzaStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
